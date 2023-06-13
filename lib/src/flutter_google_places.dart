@@ -1,5 +1,3 @@
-library flutter_google_places.src;
-
 import 'dart:async';
 
 import 'package:flutter/material.dart';
